@@ -32,12 +32,5 @@
 
 ---
 
-### 🧱 Sample Architecture
-<p align="center">
-  <img src="https://raw.githubusercontent.com/FurkanTurkkk/architecture-samples/main/hexagonal-architecture.png" width="600"/>
-</p>
-
----
-
 ### 📫 Contact
 - 💼 LinkedIn: https://www.linkedin.com/in/furkantuurk/

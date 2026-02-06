@@ -19,4 +19,4 @@
 ---
 
 ### 📫 Contact
-- 💼 LinkedIn: [](https://www.linkedin.com/in/furkantuurk/)
+- 💼 LinkedIn: https://www.linkedin.com/in/furkantuurk/

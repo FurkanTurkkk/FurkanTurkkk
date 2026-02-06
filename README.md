@@ -29,11 +29,5 @@
 
 ---
 
-### 🧩 Featured Projects
-- 🔹 **Project Name** – Short description of the problem you solved  
-- 🔹 **Project Name** – Focused on clean architecture & business logic  
-
----
-
 ### 📫 Contact
-- 💼 LinkedIn: (eklersin)
+- 💼 LinkedIn: [](https://www.linkedin.com/in/furkantuurk/)

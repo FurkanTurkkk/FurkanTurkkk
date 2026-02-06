@@ -34,7 +34,7 @@
 
 ### 🧱 Sample Architecture
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KULLANICI_ADIN/architecture-samples/main/hexagonal-architecture.png" width="600"/>
+  <img src="https://raw.githubusercontent.com/FurkanTurkkk/architecture-samples/main/hexagonal-architecture.png" width="600"/>
 </p>
 
 ---

@@ -1,16 +1,39 @@
-## Hi there 👋
+<h1 align="center">Hi 👋 I'm Furkan</h1>
+<h3 align="center">Java Backend Developer | Problem Solver</h3>
 
-<!--
-**FurkanTurkkk/FurkanTurkkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 💻 Java & Spring Boot focused backend developer  
+- 🧠 Interested in clean code, OOP, SOLID principles  
+- 🏗️ Building scalable and maintainable systems  
+- 📚 Constantly improving myself in backend architecture  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,postgres,docker,git" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FurkanTurkkk&show_icons=true&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FurkanTurkkk&layout=compact" />
+</p>
+
+---
+
+### 🧩 Featured Projects
+- 🔹 **Project Name** – Short description of the problem you solved  
+- 🔹 **Project Name** – Focused on clean architecture & business logic  
+
+---
+
+### 📫 Contact
+- 💼 LinkedIn: (eklersin)
